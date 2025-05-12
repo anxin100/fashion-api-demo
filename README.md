@@ -1,7 +1,7 @@
 # Fashion Demo
 
 ## 接口文档
-
+https://apifox.com/apidoc/shared-6f676345-774a-4153-b52e-bdee79d37af8
 
 ## 请求示例
 
